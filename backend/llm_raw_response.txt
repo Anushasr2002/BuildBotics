@@ -1,0 +1,19 @@
+```json
+[
+  {"day": 1, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic", "quantity": 12},
+  {"day": 2, "vehicle_type": "Sedan", "features": "engine_hybrid,paint_red,airbag_standard,sensor_basic", "quantity": 10},
+  {"day": 3, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard", "quantity": 15},
+  {"day": 4, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic", "quantity": 11},
+  {"day": 5, "vehicle_type": "Sedan", "features": "engine_hybrid,paint_red,airbag_standard,sensor_basic", "quantity": 9},
+  {"day": 6, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard", "quantity": 14},
+  {"day": 7, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic", "quantity": 13},
+  {"day": 8, "vehicle_type": "Sedan", "features": "engine_hybrid,paint_red,airbag_standard,sensor_basic", "quantity": 10},
+  {"day": 9, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard", "quantity": 16},
+  {"day": 10, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic", "quantity": 12},
+  {"day": 11, "vehicle_type": "Sedan", "features": "engine_hybrid,paint_red,airbag_standard,sensor_basic", "quantity": 8},
+  {"day": 12, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard", "quantity": 13},
+  {"day": 13, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic", "quantity": 14},
+  {"day": 14, "vehicle_type": "Sedan", "features": "engine_hybrid,paint_red,airbag_standard,sensor_basic", "quantity": 11},
+  {"day": 15, "vehicle_type": "Sedan", "features": "engine_hybrid,tire_allseason,paint_red,airbag_standard", "quantity": 15}
+]
+```

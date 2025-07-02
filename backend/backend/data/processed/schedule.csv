@@ -1,0 +1,16 @@
+day,vehicle_type,features,quantity
+1,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic",12
+2,Sedan,"engine_hybrid,paint_red,airbag_standard,sensor_basic",10
+3,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard",15
+4,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic",11
+5,Sedan,"engine_hybrid,paint_red,airbag_standard,sensor_basic",9
+6,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard",14
+7,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic",13
+8,Sedan,"engine_hybrid,paint_red,airbag_standard,sensor_basic",10
+9,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard",16
+10,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic",12
+11,Sedan,"engine_hybrid,paint_red,airbag_standard,sensor_basic",8
+12,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard",13
+13,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic",14
+14,Sedan,"engine_hybrid,paint_red,airbag_standard,sensor_basic",11
+15,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard",15

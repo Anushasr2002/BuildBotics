@@ -1,0 +1,6 @@
+config_id,vehicle_type,features
+1,SUV,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic"
+2,Sedan,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic"
+3,Truck,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic"
+4,Hatchback,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic"
+5,Coupe,"engine_hybrid,tire_allseason,paint_red,airbag_standard,sensor_basic"

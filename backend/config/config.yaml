@@ -1,0 +1,4 @@
+
+data_paths:
+  market_demand: backend\\data\\datasets\\market_demand.csv
+  processed_demand: backend\\data\\processed\\processed_demand.csv

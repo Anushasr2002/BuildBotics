@@ -1,0 +1,11 @@
+component,quantity,location
+engine_hybrid,100,Warehouse1
+tire_allseason,200,Warehouse1
+paint_red,50,Warehouse1
+airbag_standard,80,Warehouse1
+sensor_basic,120,Warehouse1
+engine_hybrid,100,Warehouse2
+tire_allseason,200,Warehouse2
+paint_red,50,Warehouse2
+airbag_premium,80,Warehouse2
+sensor_basic,120,Warehouse2
