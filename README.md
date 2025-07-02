@@ -5,7 +5,7 @@ Very IMP: Do this before and after committing to github
 1. In inventory_agent.py change the file path for inventory path
 2. In scheduling_agent.py change the file path for demand_path, inventory_path, inventory_status_path
 3. Add/Remove the api key from .env file
-4. Also delete the virtual environment created before committing to github
+4. Also delete the virtual environment and node modules folder created before committing to github
 *********
 
 Instructions for backend setup.
